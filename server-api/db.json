@@ -1,0 +1,24 @@
+{
+  "contacts": [
+    {
+      "id": "bc03f23a-5f0b-4de1-8e84-176b3ce15c9f",
+      "name": "Kiran Gavhane ",
+      "email": "kgavhane702d@gmail.com"
+    },
+    {
+      "id": "222c18f7-7bb0-47b6-a0df-ae6aa5cc6ef9",
+      "name": "Ajit Gavhane",
+      "email": "Agavhane@gmail.com"
+    },
+    {
+      "id": "632a54c4-577f-4a08-8d12-beee0de81bed",
+      "name": "My Data",
+      "email": "mydata@gmail.com"
+    },
+    {
+      "id": "fd67abf6-1531-4c42-a43b-f7673c962944",
+      "name": "fs",
+      "email": "fsd"
+    }
+  ]
+}
